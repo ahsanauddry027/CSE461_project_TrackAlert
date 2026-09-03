@@ -440,8 +440,8 @@ Our sincere thanks to both of them for their guidance, patience and feedback thr
 
 <br><br>
 
-**Thank you for visiting our project repository.**
-**Google Drive link:** <a href="[https://drive.google.com/drive/folders/1lwfewMTtvOZvEcsnVSsrud3aUyajPg3f?usp=sharing]">**Visit Github:CSE461**</a>
+**Thank you for visiting our project repository.** <br>
+**Google Drive link:** https://drive.google.com/drive/folders/1lwfewMTtvOZvEcsnVSsrud3aUyajPg3f?usp=sharing
 
 From the five of us who taped the track, chased the false alarms and re-soldered the harness more times than we would like to admit — we hope TrackAlert Vision is useful to you. Questions, forks and improvements are all welcome.
 
