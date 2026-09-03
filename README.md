@@ -350,7 +350,8 @@ TrackAlert-Vision/
 ├── Livephotos/                         # Photographs of the built prototype
 │   ├── ProjectPhoto1.JPG
 │   ├── ProjectPhoto2.JPG
-│   └── TeamPhoto.JPG
+│   ├── TeamPhoto.JPG
+│   └── Teamphoto2.JPG                  # with the course instructors
 │
 ├── 01_09.pdf                           # Full lab project report
 ├── TrackAlert_Final_Pin_Diagram.pdf    # Authoritative wiring reference
@@ -393,6 +394,8 @@ TrackAlert-Vision/
 **BRAC University** · Department of Computer Science and Engineering
 **CSE461: Introduction to Robotics** · Section 09, Group 01
 
+**Course Instructors:** Md. Khalilur Rahman, PhD (KHR) · Rafid Ahnaf (RFF)
+
 | Name | ID | Role | Contribution |
 |---|---|---|---|
 | **Ahsan Habib** 🏅 | 22201027 | **Team Lead · Lead Architect · Embedded Systems & Autonomous Navigation** | System architecture and integration strategy; line-following control (5-array sensing, PD + slew-limited steering, corner and junction handling); obstacle avoidance (servo + ultrasonic scanning, gyro-measured box manoeuvre, route recovery); Telegram bot image capture and alert messaging |
@@ -423,6 +426,13 @@ Released under the **MIT License** for academic and educational use.
 ## 🙏 Thanks for Visiting
 
 <div align="center">
+
+<img src="Livephotos/Teamphoto2.JPG" alt="Group 01 with course instructors Md. Khalilur Rahman, PhD and Rafid Ahnaf" width="88%">
+
+<sub><b>Group 01 with our course instructors</b> — <b>Md. Khalilur Rahman, PhD (KHR)</b> and <b>Rafid Ahnaf (RFF)</b>, on final demonstration day.<br>
+Our sincere thanks to both of them for their guidance, patience and feedback throughout CSE461.</sub>
+
+<br>
 
 <img src="Livephotos/TeamPhoto.JPG" alt="Group 01, Section 09 — CSE461 Introduction to Robotics, BRAC University" width="85%">
 
